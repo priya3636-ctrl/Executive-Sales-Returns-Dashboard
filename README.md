@@ -29,10 +29,6 @@ The Executive Sales & Returns Dashboard is an interactive business intelligence 
 - Data visualization
 - Interactive reporting
 
-## 📷 Dashboard Preview
-
-"C:\Users\KOTESWARARAO\OneDrive\Desktop\Pictures\Screenshots\Screenshot 2026-10-16 214103.png"
-
 ## 📁 Project Files
 - `Executive_Sales_Returns_Dashboard.pbix` — Power BI report file.
 - `dashboard-screenshot.png` — Dashboard preview image.
